@@ -1,3 +1,4 @@
+
 # LIBRARY-MANAGEMENT-SYSTEM
 A library management system built with python
 
@@ -6,9 +7,12 @@ A library management system built with python
 - Add Book
 - View Book
 - Search Book
-- Check Borrow Book
-- Check Retunrn Book
+- Borrow Book
+- Retunrn Book
 - Delete Book System
+- Show available Books
+- Show borrowed Books
+- File Handeling
 - Exit System
 
 - ## Run
